@@ -7,6 +7,8 @@ We have http://data.gov.au to help find Australian Government open data sets, bu
 
 As a first starting point:
 
+* Australian Capital Territory Electoral Commission (http://www.elections.act.gov.au)
+ * http://www.elections.act.gov.au/elections_and_voting/electronic_voting_and_counting
 * Geoscience Australia (http://www.ga.gov.au/)
   * https://github.com/ga-m3dv 
 * National Archives (http://www.naa.gov.au/)
